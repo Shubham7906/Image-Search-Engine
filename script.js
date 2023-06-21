@@ -1,4 +1,4 @@
-const accessKey = "K98G0bp13l-A-kA-_pUmsrq8MjJQYsHUs4aJGA3Aa8c";
+const accessKey = "privateaccesskey";
 
 const searchForm = document.querySelector('#search-form')
 const searchBox = document.querySelector('#search-box')
