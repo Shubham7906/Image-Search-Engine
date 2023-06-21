@@ -4,11 +4,11 @@
 The Image Search Engine Website is a web application developed using JavaScript that allows users to search for high-quality images sourced from the Unsplash API. 
 
 # Implement
-## UI Of Image Search Engine
-## Image Search
-## Api Fetch
-## Dynamic Loading
-## Image Redirection
+UI Of Image Search Engine
+Image Search
+Api Fetch
+Dynamic Loading
+Image Redirection
 
 # Preview
 ![i1](https://github.com/Shubham7906/Image-Search-Engine/assets/76210714/c19ff574-50f8-4e6e-b860-033e65a13a73)
