@@ -11,5 +11,6 @@ The Image Search Engine Website is a web application developed using JavaScript 
 #### Image Redirection
 
 # Preview
-![i1](https://github.com/Shubham7906/Image-Search-Engine/assets/76210714/c19ff574-50f8-4e6e-b860-033e65a13a73)
-![i2](https://github.com/Shubham7906/Image-Search-Engine/assets/76210714/03ca582e-0bc2-4d9e-8c2f-2f6fc7f4b1d8)
+
+![i1](https://github.com/Shubham7906/Image-Search-Engine/assets/76210714/b6e7ca13-34c9-41f9-9cd4-6de6c79fd2ca)
+![i2](https://github.com/Shubham7906/Image-Search-Engine/assets/76210714/1384f55d-d011-4d95-9bcb-d8f7d4245adc)
